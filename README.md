@@ -22,8 +22,7 @@ Curso Sistemas de Informação na UEMG, unidade Frutal.
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JMqz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMqz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=JMqz&theme=dark&hide_border=true&background=0d1117"/>
 </p>
 
 ---
