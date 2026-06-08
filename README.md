@@ -6,7 +6,7 @@
 
 ---
 
-Curso Sistemas de Informação na UEMG, unidade Frutal. Trabalho com desenvolvimento web e infraestrutura.
+Curso Sistemas de Informação na UEMG, unidade Frutal.
 
 ---
 
@@ -15,8 +15,6 @@ Curso Sistemas de Informação na UEMG, unidade Frutal. Trabalho com desenvolvim
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 ---
